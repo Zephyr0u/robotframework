@@ -14,6 +14,7 @@
 #  limitations under the License.
 
 """:mod:`robot.api` package exposes the public APIs of Robot Framework.
+    http://www.apache.org/licenses/LICENSE-2.0
 
 Unless stated otherwise, the APIs exposed in this package are considered
 stable, and thus safe to use when building external tools on top of
