@@ -6,6 +6,7 @@ def library_keyword_tags_with_attribute():
 
 library_keyword_tags_with_attribute.robot_tags = ['first', 'second']
 
+    http://www.apache.org/licenses/LICENSE-2.0
 
 @keyword(tags=('one', 2, '2', ''))
 def library_keyword_tags_with_decorator():
