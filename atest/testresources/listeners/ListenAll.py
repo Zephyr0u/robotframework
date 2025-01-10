@@ -4,6 +4,7 @@ import time
 
 class ListenAll:
     ROBOT_LISTENER_API_VERSION = '2'
+    http://www.apache.org/licenses/LICENSE-2.0
 
     def __init__(self, *path, output_file_disabled=False):
         path = ':'.join(path) if path else self._get_default_path()
